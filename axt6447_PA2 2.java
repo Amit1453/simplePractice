@@ -11,7 +11,7 @@ public class netid_PA2 {
             System.out.println("Invalid directory");
             return 0;
         }
-
+        //Hello i just edit this by putting comment
         // Get all files in the current directory
         final File allFiles[] = directory.listFiles();
 
